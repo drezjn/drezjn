@@ -7,9 +7,11 @@ Acredito que a magia acontece nos bastidores, e é aí que quero estar: construi
 Atualmente, estou me aprofundando em **JavaScript (Node.js e Express)** para construir **APIs RESTful**, e em bancos de dados como **MongoDB** e **PostgreSQL**.  
 Sempre aberto a novas conexões e oportunidades de colaboração!
 
+Estou constantemente aprimorando minhas habilidades por meio de projetos práticos, desafios técnicos e estudos contínuos.
+
 ---
 
-## 🚀 Linguagens e Tecnologias
+## 🧠 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
