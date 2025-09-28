@@ -30,8 +30,8 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos prátic
 
 <div align="center">
   <a href="https://github.com/gustavnunss">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavnunss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavnunss&layout=compact&langs_count=8&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=drezjn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezjn&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
 
