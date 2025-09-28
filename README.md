@@ -2,9 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Desenvolvedor-Web-blue)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com o coração no back-end.  
-Acredito que a magia acontece nos bastidores, e é aí que quero estar: construindo a engine que alimenta grandes ideias.  
-Atualmente, estou me aprofundando em **JavaScript (Node.js e Express)** para construir **APIs RESTful**, e em bancos de dados como **MongoDB** e **PostgreSQL**.  
+Sou estudante de Análise e Desenvolvimento de Sistemas com o coração no back-end. Acredito que a magia acontece nos bastidores, e é aí que quero estar: construindo a engine que alimenta grandes ideias. Atualmente, estou me aprofundando em **JavaScript (Node.js e Express)** para construir **APIs RESTful**, e em bancos de dados como **MongoDB** e **PostgreSQL**.  
 Sempre aberto a novas conexões e oportunidades de colaboração!
 
 Estou constantemente aprimorando minhas habilidades por meio de projetos práticos, desafios técnicos e estudos contínuos.
