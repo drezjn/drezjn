@@ -37,10 +37,3 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos prátic
 
 ---
 
-## 🌐 Contato
-
-- 📫 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/seulink](https://linkedin.com/in/seulink)
-
----
-
