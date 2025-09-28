@@ -1,4 +1,4 @@
-# Hello Word, my name is André Gonçalves! 👋
+# Hello Word, my name is André Gonçalves!
 
 ![Badge](https://img.shields.io/badge/Desenvolvedor-Web-blue)
 
